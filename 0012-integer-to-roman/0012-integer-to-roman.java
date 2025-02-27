@@ -5,7 +5,7 @@ class Solution {
 
        StringBuilder sb=new StringBuilder();
 
-       for(int i=0;i<values.length;++i){
+       for(int i=0;i<values.length;i++){
           if(num==0){
              break;
           }
