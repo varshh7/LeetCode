@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/varshh7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshh7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/varshh7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/varshh7/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/varshh7/LeetCode/tree/master/0070-climbing-stairs) |
 ## Binary Search
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/varshh7/LeetCode/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/varshh7/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
