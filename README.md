@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0262-trips-and-users](https://github.com/varshh7/LeetCode/tree/master/0262-trips-and-users) |
+| [1908-recyclable-and-low-fat-products](https://github.com/varshh7/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Two Pointers
 |  |
 | ------- |
