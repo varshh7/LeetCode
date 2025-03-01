@@ -49,4 +49,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varshh7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+## Array
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/varshh7/LeetCode/tree/master/0164-maximum-gap) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/varshh7/LeetCode/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/varshh7/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/varshh7/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
