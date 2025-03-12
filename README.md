@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/varshh7/LeetCode/tree/master/0012-integer-to-roman) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varshh7/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
 | ------- |
@@ -118,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/varshh7/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/varshh7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
