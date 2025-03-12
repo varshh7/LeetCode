@@ -79,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshh7/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshh7/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshh7/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/varshh7/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
