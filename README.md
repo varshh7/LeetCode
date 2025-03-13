@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varshh7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshh7/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 ## Array
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/varshh7/LeetCode/tree/master/0164-maximum-gap) |
+| [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 | [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
