@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/varshh7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/varshh7/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/varshh7/LeetCode/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/varshh7/LeetCode/tree/master/0223-rectangle-area) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -138,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/varshh7/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
