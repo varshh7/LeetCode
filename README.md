@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varshh7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshh7/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
+| [2573-remove-nodes-from-linked-list](https://github.com/varshh7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshh7/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/varshh7/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/varshh7/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2573-remove-nodes-from-linked-list](https://github.com/varshh7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/varshh7/LeetCode/tree/master/0223-rectangle-area) |
+## Recursion
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/varshh7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/varshh7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
