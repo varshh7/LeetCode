@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/varshh7/LeetCode/tree/master/0176-second-highest-salary) |
 | [0262-trips-and-users](https://github.com/varshh7/LeetCode/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/varshh7/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/varshh7/LeetCode/tree/master/0595-big-countries) |
