@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/varshh7/LeetCode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/varshh7/LeetCode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/varshh7/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0262-trips-and-users](https://github.com/varshh7/LeetCode/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/varshh7/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/varshh7/LeetCode/tree/master/0595-big-countries) |
