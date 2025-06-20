@@ -19,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshh7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varshh7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0344-reverse-string](https://github.com/varshh7/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/varshh7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshh7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/varshh7/LeetCode/tree/master/0344-reverse-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varshh7/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String Matching
 |  |
