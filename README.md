@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/varshh7/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/varshh7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/varshh7/LeetCode/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/varshh7/LeetCode/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Binary Search
 |  |
@@ -186,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varshh7/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/varshh7/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/varshh7/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
