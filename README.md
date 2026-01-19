@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/varshh7/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/varshh7/LeetCode/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/varshh7/LeetCode/tree/master/0262-trips-and-users) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/varshh7/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/varshh7/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/varshh7/LeetCode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/varshh7/LeetCode/tree/master/1258-article-views-i) |
