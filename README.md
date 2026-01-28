@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varshh7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/varshh7/LeetCode/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/varshh7/LeetCode/tree/master/0344-reverse-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/varshh7/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshh7/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/varshh7/LeetCode/tree/master/0143-reorder-list) |
 | [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/varshh7/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/varshh7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/varshh7/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Array
