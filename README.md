@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/varshh7/LeetCode/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/varshh7/LeetCode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/varshh7/LeetCode/tree/master/0258-add-digits) |
+| [0382-linked-list-random-node](https://github.com/varshh7/LeetCode/tree/master/0382-linked-list-random-node) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/varshh7/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/varshh7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshh7/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/varshh7/LeetCode/tree/master/0143-reorder-list) |
+| [0382-linked-list-random-node](https://github.com/varshh7/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/varshh7/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/varshh7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -212,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-print-foobar-alternately](https://github.com/varshh7/LeetCode/tree/master/1115-print-foobar-alternately) |
 | [1116-print-zero-even-odd](https://github.com/varshh7/LeetCode/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/varshh7/LeetCode/tree/master/1117-building-h2o) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/varshh7/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/varshh7/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
