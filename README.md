@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/varshh7/LeetCode/tree/master/0012-integer-to-roman) |
+| [0705-design-hashset](https://github.com/varshh7/LeetCode/tree/master/0705-design-hashset) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varshh7/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/varshh7/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/varshh7/LeetCode/tree/master/0143-reorder-list) |
 | [0382-linked-list-random-node](https://github.com/varshh7/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0705-design-hashset](https://github.com/varshh7/LeetCode/tree/master/0705-design-hashset) |
 | [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/varshh7/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/varshh7/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/varshh7/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0164-maximum-gap](https://github.com/varshh7/LeetCode/tree/master/0164-maximum-gap) |
+| [0705-design-hashset](https://github.com/varshh7/LeetCode/tree/master/0705-design-hashset) |
 | [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/varshh7/LeetCode/tree/master/0705-design-hashset) |
 | [0860-design-circular-queue](https://github.com/varshh7/LeetCode/tree/master/0860-design-circular-queue) |
 | [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/varshh7/LeetCode/tree/master/0382-linked-list-random-node) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/varshh7/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
