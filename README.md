@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/varshh7/LeetCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/varshh7/LeetCode/tree/master/0709-to-lower-case) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varshh7/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/varshh7/LeetCode/tree/master/1496-path-crossing) |
 ## String Matching
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/varshh7/LeetCode/tree/master/0705-design-hashset) |
 | [1370-count-number-of-nice-subarrays](https://github.com/varshh7/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/varshh7/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/varshh7/LeetCode/tree/master/1496-path-crossing) |
 | [2413-smallest-number-in-infinite-set](https://github.com/varshh7/LeetCode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
